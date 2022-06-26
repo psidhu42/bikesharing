@@ -11,6 +11,7 @@ An analysis of NYC CitiBike data for the month of August.
 ## Results of Analysis
 
 To view an interactive page with the charts shown in the following images, click the link below.
+
 [Link to NYC CitiBike Story](https://public.tableau.com/app/profile/pritpal.sidhu/viz/NYC-Citibike-Challenge_16557627335780/CitibikeUseageinNYC)
 
 ### August Peak Hours
