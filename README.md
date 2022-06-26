@@ -19,19 +19,19 @@ This horizontal bar graph shows that the peak hours are aroud 8-9 AM and 5-6 PM,
 
 ### Busiest Hours by Weekday
 !["Busiest Hours by Weekday"](https://github.com/psidhu42/bikesharing/blob/main/resources/02-Trips-by-Weekday-per-Hour.png)
-Similar to the bar chart above, this chart also shows the busiest hours of bike use, although here the data is broken down by each day. Monday to Friday shows heavier use during morning and evening hours, where Saturday and Sunday peak hours are focused around mid-day.
+Similar to the bar chart above, this chart also shows the busiest hours of bike use, although here the data is broken down by each day. Monday to Friday shows heavier use during morning and evening hours, where Saturday and Sunday peak hours are focused around midday.
 
 ### Trip Duration by Number of Users
 !["Trip Duration by Users"](https://github.com/psidhu42/bikesharing/blob/main/resources/03-Checkout-Times-for-Users.png)
-
+This graph shows the duration of rides and the amount of rides that last that long. For example, looking at this graph we can see the peak is roughly 145,000 rides that last for around 5 minutes.
 
 ### Busiest Time of Day by Gender
 !["Busiest Time of Day by Gender"](https://github.com/psidhu42/bikesharing/blob/main/resources/04-Trips-by-Gender-(Weekday-per-Hour).png)
-
+Here we see the busiest times of day but broken down by gender. Using this chart we can also infer that more men use CitiBikes than women.
 
 ### Trip Duration by Gender
 !["Trip Duration by Gender"](https://github.com/psidhu42/bikesharing/blob/main/resources/05-Checkout-Times-by-Gender.png)
-
+This line graph shows that although more men ride the bikes, as the trip duration gets longer the number of users declines at a relative rate to the peak users.
 
 ### Busiest Days by User Type and Gender
 !["Busiest Days by User Type and Gender"](https://github.com/psidhu42/bikesharing/blob/main/resources/06-User-Trips-by-Gender-by-Weekday.png)
