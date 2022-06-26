@@ -10,7 +10,7 @@ An analysis of NYC CitiBike data for the month of August.
 
 ## Results of Analysis
 
-To view and interactive page with the charts shown in the following images, click the link below.
+To view an interactive page with the charts shown in the following images, click the link below.
 [Link to NYC CitiBike Story](https://public.tableau.com/app/profile/pritpal.sidhu/viz/NYC-Citibike-Challenge_16557627335780/CitibikeUseageinNYC)
 
 ### August Peak Hours
@@ -35,15 +35,15 @@ This line graph shows that although more men ride the bikes, as the trip duratio
 
 ### Busiest Days by User Type and Gender
 !["Busiest Days by User Type and Gender"](https://github.com/psidhu42/bikesharing/blob/main/resources/06-User-Trips-by-Gender-by-Weekday.png)
-
+More subscribers use the bike service than one time customers, and out of those subscribers there are more males than female riders, the busiest day being Thursday.
 
 ### Map of Top Starting Locations
 !["Top Starting Locations Map"](https://github.com/psidhu42/bikesharing/blob/main/resources/07-Top-Starting-Locations.png)
-
+Looking at this map we can see that a majority of the top starting locations are in Manhattan south of Central Park. There are a few popular locations the are along the outside edge of Central Park as well.
 
 ### Most Popular Destinations
 !["Most Popular Destinations"](https://github.com/psidhu42/bikesharing/blob/main/resources/08-Most-Popular-Destination.png)
-
+This circle chart shows the most popular destinations, the larger and more green the circle the popular the location. Using the [interactive chart](https://public.tableau.com/app/profile/pritpal.sidhu/viz/NYC-Citibike-Challenge_16557627335780/CitibikeUseageinNYC) on Tableau Public we can see that "Pershing Square North" is the most popular end point, which is located nearest to Grand Central Station.
 
 
 ## Summary
