@@ -6,7 +6,7 @@ An analysis of NYC CitiBike data for the month of August.
 
 ### Purpose
 
-
+Using NYC Citibike data from August 2019 and Tableau Public perform an analysis to determine how long the bikes are checked out by all riders and then by gender. Also find the total number of rides and show the busiest hours and days by usertype (Subscribers or Customers) and by gender. The graphs and charts will help determine if a similar business plan would be successful in Des Moines, IA.
 
 ## Results of Analysis
 
@@ -49,10 +49,6 @@ This circle chart shows the most popular destinations, the larger and more green
 
 ## Summary
 
+Using these charts and graphs, firstly it can be determined that the majority of the users are subscribers rather than single use customers. The first two charts give a good indication of the avaerage peak hours and busiest days by hour, form these two it could be said the busiest hours are around 5 to 6 PM with Thursday being the busiest day. Males are the majority users and thus have majority of the ride time within this dataset. One other conclusion that could be drawn from the last two charts is that the majority of the rides take place in southern Manhattan.
 
-
-### June Precipitation
-
-
-
-### December Precipitation
+Although these charts provide a great deal of visual information, two others come to mind that might be useful in this analysis. The first being a chart or map that could possibly show the most common route taken, from starting to ending point. Another useful chart could be one that shows the most used bikes by ID number, to better help keep all bikes in working order.
