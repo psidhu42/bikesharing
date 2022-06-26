@@ -6,7 +6,7 @@ An analysis of NYC CitiBike data for the month of August.
 
 ### Purpose
 
-Using NYC Citibike data from August 2019 and Tableau Public perform an analysis to determine how long the bikes are checked out by all riders and then by gender. Also find the total number of rides and show the busiest hours and days by usertype (Subscribers or Customers) and by gender. The graphs and charts will help determine if a similar business plan would be successful in Des Moines, IA.
+Using Tableau Public and NYC Citibike data from August 2019 perform an analysis by creating charts and graphs to determine how long the bikes are checked out by all riders and then by gender. Also find the total number of rides and show the busiest hours and days by user type (Subscribers or Customers) and by gender. The graphs and charts will help determine if a similar business plan would be successful in Des Moines, IA.
 
 ## Results of Analysis
 
@@ -16,7 +16,7 @@ To view an interactive page with the charts shown in the following images, click
 
 ### August Peak Hours
 !["August Peak Hours"](https://github.com/psidhu42/bikesharing/blob/main/resources/01-August-Peak-Hours.png)
-This horizontal bar graph shows that the peak hours are aroud 8-9 AM and 5-6 PM, this could be due to work/school morning and evening commute times.
+This horizontal bar graph shows that the peak hours are around 8-9 AM and 5-6 PM, this could be due to work/school morning and evening commute times.
 
 ### Busiest Hours by Weekday
 !["Busiest Hours by Weekday"](https://github.com/psidhu42/bikesharing/blob/main/resources/02-Trips-by-Weekday-per-Hour.png)
@@ -24,7 +24,7 @@ Similar to the bar chart above, this chart also shows the busiest hours of bike 
 
 ### Trip Duration by Number of Users
 !["Trip Duration by Users"](https://github.com/psidhu42/bikesharing/blob/main/resources/03-Checkout-Times-for-Users.png)
-This graph shows the duration of rides and the amount of rides that last that long. For example, looking at this graph we can see the peak is roughly 145,000 rides that last for around 5 minutes.
+This graph shows the duration of rides by the number of rides that last for that duration. For example, looking at this graph we can see the peak is roughly 145,000 rides that last for around 5 minutes.
 
 ### Busiest Time of Day by Gender
 !["Busiest Time of Day by Gender"](https://github.com/psidhu42/bikesharing/blob/main/resources/04-Trips-by-Gender-(Weekday-per-Hour).png)
@@ -40,7 +40,7 @@ More subscribers use the bike service than one time customers, and out of those 
 
 ### Map of Top Starting Locations
 !["Top Starting Locations Map"](https://github.com/psidhu42/bikesharing/blob/main/resources/07-Top-Starting-Locations.png)
-Looking at this map we can see that a majority of the top starting locations are in Manhattan south of Central Park. There are a few popular locations the are along the outside edge of Central Park as well.
+Looking at this map we can see that most of the top starting locations are in Manhattan south of Central Park. There are a few popular locations the are along the outside edge of Central Park as well.
 
 ### Most Popular Destinations
 !["Most Popular Destinations"](https://github.com/psidhu42/bikesharing/blob/main/resources/08-Most-Popular-Destination.png)
@@ -49,6 +49,6 @@ This circle chart shows the most popular destinations, the larger and more green
 
 ## Summary
 
-Using these charts and graphs, firstly it can be determined that the majority of the users are subscribers rather than single use customers. The first two charts give a good indication of the avaerage peak hours and busiest days by hour, form these two it could be said the busiest hours are around 5 to 6 PM with Thursday being the busiest day. Males are the majority users and thus have majority of the ride time within this dataset. One other conclusion that could be drawn from the last two charts is that the majority of the rides take place in southern Manhattan.
+Using these charts and graphs, firstly it can be determined that many of the users are subscribers rather than single use customers. The first two charts give a good indication of the average peak hours and busiest days by hour, form these two it could be said the busiest hours are around 5 to 6 PM with Thursday being the busiest day. Males are the majority users and thus have majority of the ride time within this dataset. One other conclusion that could be drawn from the last two charts is that the majority of the rides take place in southern Manhattan.
 
 Although these charts provide a great deal of visual information, two others come to mind that might be useful in this analysis. The first being a chart or map that could possibly show the most common route taken, from starting to ending point. Another useful chart could be one that shows the most used bikes by ID number, to better help keep all bikes in working order.
