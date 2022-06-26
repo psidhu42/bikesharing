@@ -14,38 +14,34 @@ To view and interactive page with the charts shown in the following images, clic
 [Link to NYC CitiBike Story](https://public.tableau.com/app/profile/pritpal.sidhu/viz/NYC-Citibike-Challenge_16557627335780/CitibikeUseageinNYC)
 
 ### August Peak Hours
-
 !["August Peak Hours"](https://github.com/psidhu42/bikesharing/blob/main/resources/01-August-Peak-Hours.png)
-
-* This horizontal bar graph shows that the busiest hours are aroud 8-9 AM and 5-6 PM, this could be due to work/school morning and evening commute times.
+This horizontal bar graph shows that the peak hours are aroud 8-9 AM and 5-6 PM, this could be due to work/school morning and evening commute times.
 
 ### Busiest Hours by Weekday
 !["Busiest Hours by Weekday"](https://github.com/psidhu42/bikesharing/blob/main/resources/02-Trips-by-Weekday-per-Hour.png)
-* This horizontal bar graph shows that the busiest hours are aroud 8-9 AM and 5-6 PM, this could be due to work/school morning and evening commute times.
+Similar to the bar chart above, this chart also shows the busiest hours of bike use, although here the data is broken down by each day. Monday to Friday shows heavier use during morning and evening hours, where Saturday and Sunday peak hours are focused around mid-day.
 
 ### Trip Duration by Number of Users
-
 !["Trip Duration by Users"](https://github.com/psidhu42/bikesharing/blob/main/resources/03-Checkout-Times-for-Users.png)
-This horizontal bar graph shows that the busiest hours are aroud 8-9 AM and 5-6 PM, this could be due to work/school morning and evening commute times.
+
 
 ### Busiest Time of Day by Gender
-
 !["Busiest Time of Day by Gender"](https://github.com/psidhu42/bikesharing/blob/main/resources/04-Trips-by-Gender-(Weekday-per-Hour).png)
 
-### Trip Duration by Gender
 
+### Trip Duration by Gender
 !["Trip Duration by Gender"](https://github.com/psidhu42/bikesharing/blob/main/resources/05-Checkout-Times-by-Gender.png)
 
-### Busiest Days by User Type and Gender
 
+### Busiest Days by User Type and Gender
 !["Busiest Days by User Type and Gender"](https://github.com/psidhu42/bikesharing/blob/main/resources/06-User-Trips-by-Gender-by-Weekday.png)
 
-### Map of Top Starting Locations
 
+### Map of Top Starting Locations
 !["Top Starting Locations Map"](https://github.com/psidhu42/bikesharing/blob/main/resources/07-Top-Starting-Locations.png)
 
-### Most Popular Destinations
 
+### Most Popular Destinations
 !["Most Popular Destinations"](https://github.com/psidhu42/bikesharing/blob/main/resources/08-Most-Popular-Destination.png)
 
 
