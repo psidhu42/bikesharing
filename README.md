@@ -30,7 +30,7 @@
 
 * 
 
-!["Time Duration of Ride by Gender"](phttps://github.com/psidhu42/bikesharing/blob/main/resources/05-Checkout-Times-by-Gender.pngng)
+!["Time Duration of Ride by Gender"](phttps://github.com/psidhu42/bikesharing/blob/main/resources/05-Checkout-Times-by-Gender.png)
 
 * 
 
